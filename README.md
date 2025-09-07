@@ -207,7 +207,6 @@ INFO:     Uvicorn running on http://127.0.0.1:8013 (Press CTRL+C to quit)
 ```
 
 API available at: `http://127.0.0.1:8013`  
-Documentation: `http://127.0.0.1:8013/docs`
 
 ## API Endpoints
 
